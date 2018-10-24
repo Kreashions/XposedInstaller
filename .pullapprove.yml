@@ -9,7 +9,7 @@ groups:
     reset_on_push:
       enabled: true
     users:
-      - DVDAndroid
+      - Ibuprophen1
     always_approved:
       title_regex: '(string|translation)'
     always_pending:
