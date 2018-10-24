@@ -1,6 +1,6 @@
 XposedInstaller
 ===============
-[![Build Status](https://travis-ci.org/DVDAndroid/XposedInstaller.svg?branch=material)](https://travis-ci.org/DVDAndroid/XposedInstaller)
+[![Build Status](https://jitpack.io/v/Team-Ibuprophen/XposedInstaller-MatD.svg?branch=material)](https://jitpack.io/#Team-Ibuprophen/XposedInstaller-MatD)
 
 This is a materialised version of Xposed Installer
 
